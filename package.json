@@ -1,16 +1,16 @@
 {
   "name": "notionic",
   "version": "3.0.0",
-  "homepage": "https://www.wangyan.org",
+  "homepage": "https://wangyan.org",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://code.wangyan.cloud/wangyan/notionic.git"
+    "url": "https://github.com/wangyan/notionic"
   },
   "author": {
     "name": "WangYan",
     "email": "no-reply@wangyan.org",
-    "url": "https://www.wangyan.org"
+    "url": "https://wangyan.org"
   },
   "scripts": {
     "dev": "next dev",
@@ -55,7 +55,7 @@
     "typescript": "^5.0.3"
   },
   "bugs": {
-    "url": "https://code.wangyan.cloud/wangyan/notionic/issues",
+    "url": "https://github.com/wangyan/notionic/issues",
     "email": "no-reply@wangyan.org"
   }
 }
