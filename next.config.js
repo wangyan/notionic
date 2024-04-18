@@ -1,12 +1,12 @@
 module.exports = {
   i18n: {
     locales: ['en', 'zh'],
-    defaultLocale: 'en',
+    defaultLocale: 'zh',
     localeDetection: false
   },
   transpilePackages: ['dayjs'],
   images: {
-    domains: ['api.craft.do', 'www.notion.so', 'images.unsplash.com', 's3.us-west-2.amazonaws.com']
+    domains: ['api.craft.do', 'www.notion.so', 'images.unsplash.com', 'img.ptcafe.club']
   },
   async headers() {
     return [
