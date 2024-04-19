@@ -2,8 +2,8 @@ const BLOG = {
   title: 'WangYan Blog',
   author: 'WangYan',
   email: 'no-reply@wangyan.org',
-  link: 'https://www.wangyan.org',
-  newsletter: '随笔',
+  link: 'https://wangyan.org',
+  newsletter: '周刊',
   description: 'WangYan BLog',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
@@ -34,7 +34,7 @@ const BLOG = {
     telegram: 'https://t.me/wang_yan'
   },
   seo: {
-    keywords: ['notion', 'WangYan', 'Blog'],
+    keywords: ['WangYan', 'Blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!

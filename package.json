@@ -1,11 +1,11 @@
 {
-  "name": "notionic",
+  "name": "wyblog",
   "version": "3.0.0",
   "homepage": "https://wangyan.org",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wangyan/notionic"
+    "url": "https://github.com/wangyan/blog"
   },
   "author": {
     "name": "WangYan",
@@ -55,7 +55,7 @@
     "typescript": "^5.0.3"
   },
   "bugs": {
-    "url": "https://github.com/wangyan/notionic/issues",
+    "url": "https://github.com/wangyan/blog/issues",
     "email": "no-reply@wangyan.org"
   }
 }
