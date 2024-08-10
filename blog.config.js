@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'WangYan Blog',
+  title: '博客',
   author: 'WangYan',
   email: 'no-reply@wangyan.org',
   link: 'https://wangyan.org',
   newsletter: '周刊',
-  description: 'WangYan BLog',
+  description: '一个静悄悄的博客',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -24,7 +24,7 @@ const BLOG = {
     friends: true
   },
   showWeChatPay: false,
-  previewImagesEnabled: false,
+  previewImagesEnabled: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateHost: 'og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   defaultCover: '/cover.jpg',
