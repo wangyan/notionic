@@ -1,5 +1,6 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 import BLOG from '@/blog.config'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -51,6 +52,7 @@ class MyDocument extends Document {
         <body className='bg-day dark:bg-night'>
           <Main />
           <NextScript />
+          <SpeedInsights />
         </body>
       </Html>
     )
