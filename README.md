@@ -1,4 +1,4 @@
-# Notion-Blog
+# NotionBlog
 
 一个实时同步 Notion 和 Craft 公开页面的静态博客。
 
