@@ -7,3 +7,5 @@
 - <https://wang-yan.vercel.app>
 
 - <https://wangyan.craft.me/index>
+
+- <https://vercel.com/wangyan/>
