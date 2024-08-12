@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'WangYan Blog',
+  title: "WangYan's Blog",
   author: 'WangYan',
   email: 'no-reply@wangyan.org',
   link: 'https://wangyan.org',
-  newsletter: '周刊',
+  newsletter: 'Newsletter',
   description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
