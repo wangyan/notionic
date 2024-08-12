@@ -13,7 +13,7 @@ const BLOG = {
   darkBackground: '#212936', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Notionic in a folder
   since: 2024, // If leave this empty, current year will be used.
-  postsPerPage: 15,
+  postsPerPage: 20,
   sortByDate: true,
   pagesShow: {
     newsletter: true,
@@ -40,7 +40,7 @@ const BLOG = {
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionSpacesId: process.env.NOTION_SPACES_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
-  notionDomain: 'wang-yan.notion.site',
+  notionDomain: 'wyblog.notion.site',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '556662163', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://t.me/wyblog', // The link of your Telegram channel
