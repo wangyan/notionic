@@ -3,11 +3,12 @@ import * as React from 'react'
 
 // https://www.svgrepo.com/svg/458225/home
 // https://www.svgrepo.com/svg/457962/home
+// https://www.svgrepo.com/svg/354822/blog
 const Logo = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={64}
-    height={64}
+    width={52}
+    height={52}
     viewBox="0 0 24 24"
     {...props}
   >
