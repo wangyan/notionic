@@ -1,13 +1,18 @@
 // https://react-svgr.com/playground/
 import * as React from 'react'
 
+// https://www.svgrepo.com/svg/458225/home
+// https://www.svgrepo.com/svg/457962/home
 const Logo = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={24}
-    height={24}
+    width={64}
+    height={64}
     fill="none"
     viewBox="0 0 24 24"
+    style={{
+        opacity: 1
+    }}
     {...props}
   >
     <g stroke="#222">
