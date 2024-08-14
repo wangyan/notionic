@@ -6,11 +6,12 @@ import * as React from 'react'
 const Logo = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={52}
-    height={52}
-    viewBox="0 0 24 24"
+    width={64}
+    height={64}
     fill="none"
-    fill-opacity="1"
+    stroke="#000"
+    strokeWidth={1.44}
+    viewBox="0 0 24 24"
     {...props}
   >
     <g stroke="#222">
