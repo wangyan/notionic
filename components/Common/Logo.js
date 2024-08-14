@@ -6,13 +6,11 @@ import * as React from 'react'
 const Logo = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    width={64}
-    height={64}
-    fill="none"
+    width={52}
+    height={52}
     viewBox="0 0 24 24"
-    style={{
-        opacity: 1
-    }}
+    fill="none"
+    fill-opacity="1"
     {...props}
   >
     <g stroke="#222">
