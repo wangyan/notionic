@@ -14,7 +14,7 @@ const BLOG = {
   path: '', // leave this empty unless you want to deploy Notionic in a folder
   since: 2024, // If leave this empty, current year will be used.
   postsPerPage: 20,
-  sortByDate: true,
+  sortByDate: false,
   pagesShow: {
     newsletter: true,
     notes: true,
